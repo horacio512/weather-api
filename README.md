@@ -20,3 +20,5 @@ El proyecto fue realizado con Material-UI.
 
 ## Contribución
 Aunque es un proyecto simple estoy abierto a muchas sugerencias ya que es uno de mis primeros, en especial en código
+
+Se agrego gb-pages
